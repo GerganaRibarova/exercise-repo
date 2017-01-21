@@ -1,2 +1,2 @@
-Repo made for exercise. Other change
+Repo made for exercise. Other change :) 
 
